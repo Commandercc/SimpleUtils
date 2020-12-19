@@ -1,0 +1,3 @@
+include ':simpleutils'
+include ':app'
+rootProject.name = "SimpleUtils"
